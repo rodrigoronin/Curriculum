@@ -23,7 +23,7 @@
 **Frontend:**
 * HTML5 & CSS3
 * JavaScript ES6
-* ReactJS & Redux
+* React & Redux
 * VueJS (Vuetify & Vuex)
 * AngularJS
 
