@@ -23,19 +23,21 @@
 **Frontend:**
 * HTML5 & CSS3
 * JavaScript ES6
-* AngularJS, VueJS & ReactJS (Bootstrap, Vuetify & Vuex)
+* ReactJS & Redux
+* VueJS (Vuetify & Vuex)
+* AngularJS
 
 
 **Backend:**
-* .NET (ASP, MVC 5, Entity)
 * NodeJS (ExpressJS)
+* .NET (ASP, MVC 5, Entity)
 
 
 **Databases:**
 * MySQL
 * SQLite
 * PostgreSQL
-* Firebase
+* Firebase, AWS
 * MongoDB
 
 **Package Manager:**
