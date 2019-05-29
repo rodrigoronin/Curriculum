@@ -1,4 +1,4 @@
-# Rodrigo Lira | Full-Stack / Web Developer
+# Rodrigo Lira | Front-end / Web Developer
 ## Fortaleza/CE - Brazil
 
 ---
