@@ -87,9 +87,9 @@
 ---
 
 ## Professional Experience
-* **Frontend Developer of [Laboratorio de Mídias Educacionais - LME] (http://lme.ufc.br/), **Stack**: with ReactJS, VueJS, Express, Node, MongoDB and Ruby on Rails (Freelancer)**
-* **Frontend | Web Developer of [Laboratorio de Mídias Educacionais - LME] (http://lme.ufc.br/), **Stack**: with AngularJS(v1.6), React Native, Native Base, Expo and Redux (2015 - 2019)**
-* **Programmer | Game Developer of [Universidade Federal do Ceará Virtual - UFC] (http://portal.virtual.ufc.br/), **Stack**: developed with SpriteKit Framework (2013 - 2015)**
+* **Frontend Developer of [Laboratorio de Mídias Educacionais - LME](http://lme.ufc.br/), **Stack**: with ReactJS, VueJS, Express, Node, MongoDB and Ruby on Rails (Freelancer)**
+* **Frontend | Web Developer of [Laboratorio de Mídias Educacionais - LME](http://lme.ufc.br/), **Stack**: with AngularJS(v1.6), React Native, Native Base, Expo and Redux (2015 - 2019)**
+* **Programmer | Game Developer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), **Stack**: developed with SpriteKit Framework (2013 - 2015)**
 
 
 ---
