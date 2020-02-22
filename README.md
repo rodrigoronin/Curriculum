@@ -1,4 +1,4 @@
-# Rodrigo Lira | Front-end / Web Developer
+# Rodrigo Lira | Frontend Developer
 ## Fortaleza/CE - Brazil
 
 ---
@@ -15,29 +15,49 @@
 
 ## Skills
 
-
-**Mobile:**
-* Mobile Application Development for iOS and Android Platforms with React Native (Expo, Native Base, Redux)
-
-
 **Frontend:**
 * HTML5 & CSS3
 * JavaScript ES6
-* React & Redux
-* VueJS (Vuetify & Vuex)
-* AngularJS
+* React
+  - Redux
+  - Hooks
+  - Styled Components
+  - TDD (Jest)
+* VueJS
+  - Vuetify
+  - Vuex
+  - Electron Vue
+* AngularJS (Angular 1.6)
 
+**Mobile:**
+* React Native
+  - CLI
+  - Expo
+  - Redux
+  - Native Base
+  - React Navigation & Router Flux
+  - Styled Components
+  - Hooks
+  - Debounce & Throttle
+  - Sentry
+  - Higher-Order Components
+  - Test Driven Development with Jest
 
 **Backend:**
-* NodeJS (ExpressJS)
-* .NET (ASP, MVC 5, Entity)
+* NodeJS
+  - Express
+  - Websockets
+  - Mongoose
+  - Nodemon
+* .NET
 
 
 **Databases:**
 * MySQL
 * SQLite
 * PostgreSQL
-* Firebase, AWS
+* Firebase
+* AWS
 * MongoDB
 
 **Package Manager:**
@@ -47,35 +67,23 @@
 
 
 **Others:**
-* Game Development (HTML, Unity Engine, Unreal Engine 4)
+* Game Development (HTML5, Unity Engine, Unreal Engine 4)
 * Augmented / virtual Reality (Vuforia & ARToolKit with Unity Engine)
-* Artificial Intelligence
+* Kanban, XP, Scrum
+* Git & GitFlow
 * Digital Image Processing (OpenCV)
-* Amazon Web Services
-* Heroku
+* Deply with Heroku & Netlify
 * Design Patterns
-* Version Control System (GIT)
 * Design & Software Architecture Knowledge
-* XP & Scrum
 * Principles of Graphic Design (UI, UX, IXD & HCI)
 * Linux (Commands, Terminal)
 
-
-**Experiences:**
-* Worked on a mobile app with significant amount of daily access (1000+) made with React Native.
-* I worked as a gameplay programmer in 2 mobile games developed with Unity Engine. published in AppStore and Google Play.
-* I have worked with the development of multiplatform applications usign AngularJS(typescript) and Ruby on Rails.
-* Worked as a full-stack developer with VueJS, Express, NodeJS and MongoDB.
-
-
-
 ---
 
-## Additional informations
+## Education & Formation
 
-* Languages
-* **Portuguese - Native Level
-* **English - Intermediate Level (work knowledge)
+* **Graduated** - System Analysis and Development (Estácio - Centro Universitário Estácio do Ceará: Fortaleza - CE/Brazil)
+
 ---
 
 ## Professional Experience
@@ -87,6 +95,8 @@
 
 ---
 
-## Education & Formation
+## Additional informations
 
-* **Graduated** - System Analysis and Development (Estácio - Centro Universitário Estácio do Ceará: Fortaleza - CE/Brazil)
+* Languages
+* **Portuguese - Native Level
+* **English - Intermediate Level (conversation)
